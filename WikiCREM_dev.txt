@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 According to Charles , it cost he and Lee - [MASK] all of their savings plus tips .
 [MASK]
 Lee,Charles
@@ -49998,3 +49999,8 @@ Solenn , Elma , Aira , and Moi then proceeded to Ko Phayam to enjoy their reward
 Ko Phayam,Aira
 Ko Phayam
 
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b676dfddd96aa4aa13a1c03c125ca2099a3667071507fc7ab0fe2ea3f147c3a
+size 2348456
+>>>>>>> add dataset
